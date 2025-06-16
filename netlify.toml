@@ -1,10 +1,13 @@
 [build]
   command = "npm run build"
-  publish = ".next"
+  publish = "out"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
 
 [context.production.environment]
   NEXT_PUBLIC_APP_URL = "https://rms.codelitsstudio.com"
-  AUTH_SECRET = "@auth_secret"  # Reference to UI-set value
+  AUTH_SECRET = "@auth_secret"
 
 [[edge_functions]]
   path = "/*"
