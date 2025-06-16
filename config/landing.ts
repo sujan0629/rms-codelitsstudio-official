@@ -270,7 +270,7 @@ export const testimonials: TestimonialType[] = [
       "This platform has made the ordering system at my restaurant much easier. It has improved the customer experience and made staff work more efficient. I'm highly satisfied.",
   },
   {
-    name: "Anita Chaudhary",
+    name: "Anita Singh",
     job: "Hotel Manager - Dhangadhi",
     image: "/people/woman1.jpg",
     review:
@@ -284,7 +284,7 @@ export const testimonials: TestimonialType[] = [
       "Now that orders come clearly and quickly into the kitchen, our work is more organized. Digital receipts and updates have been a big help.",
   },
   {
-    name: "Nisha Gurung",
+    name: "Nisha Newar",
     job: "Café Owner - Lalitpur",
     image: "/people/woman2.jpg",
     review:
