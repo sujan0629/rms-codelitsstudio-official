@@ -5,7 +5,8 @@
 [[plugins]]
   package = "@netlify/plugin-nextjs"
 
-[context.production.environment]
+[build.environment]
+  NODE_VERSION = "18.18.2"
   NEXT_PUBLIC_APP_URL = "https://rms.codelitsstudio.com"
   AUTH_SECRET = "@auth_secret"
 
