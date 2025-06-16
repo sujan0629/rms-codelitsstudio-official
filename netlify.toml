@@ -1,0 +1,11 @@
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+[context.production.environment]
+  NEXT_PUBLIC_APP_URL = "https://rms.codelitsstudio.com"
+  AUTH_SECRET = "@auth_secret"  # Reference to UI-set value
+
+[[edge_functions]]
+  path = "/*"
+  function = "middleware"
