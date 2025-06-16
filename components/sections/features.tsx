@@ -31,7 +31,7 @@ export default function Features() {
                   <div className="relative flex flex-col">
                     {/* icon + title row */}
                     <div className="flex items-center gap-4">
-                      <Icon className="size-6 text-primary" />
+<Icon className="size-6 text-yellow-500" />
                       <h3 className="text-lg font-semibold">{feature.title}</h3>
                     </div>
 
