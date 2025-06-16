@@ -265,49 +265,49 @@ export const testimonials: TestimonialType[] = [
   {
     name: "Sanjay Shrestha",
     job: "Restaurant Owner - Kathmandu",
-    image: "https://randomuser.me/api/portraits/men/69.jpg",
+    image: "/people/man1.jpg",
     review:
       "This platform has made the ordering system at my restaurant much easier. It has improved the customer experience and made staff work more efficient. I'm highly satisfied.",
   },
   {
     name: "Anita Chaudhary",
     job: "Hotel Manager - Dhangadhi",
-    image: "https://randomuser.me/api/portraits/women/18.jpg",
+    image: "/people/woman1.jpg",
     review:
       "This app has simplified everything from menu management to table reservations in our hotel. It changed our mindset about technology being difficult to use.",
   },
   {
     name: "Bijay Thapa",
     job: "Chef - Pokhara",
-    image: "https://randomuser.me/api/portraits/men/56.jpg",
+    image: "/people/man2.jpg",
     review:
       "Now that orders come clearly and quickly into the kitchen, our work is more organized. Digital receipts and updates have been a big help.",
   },
   {
     name: "Nisha Gurung",
     job: "Café Owner - Lalitpur",
-    image: "https://randomuser.me/api/portraits/women/15.jpg",
+    image: "/people/woman2.jpg",
     review:
       "It’s become easier to communicate with customers. Notifications, coupons, and digital payments all in one place is a great feature.",
   },
   {
     name: "Ramesh Adhikari",
     job: "POS Operator - Biratnagar",
-    image: "https://randomuser.me/api/portraits/men/58.jpg",
+    image: "/people/man3.jpg",
     review:
       "The POS system is very user-friendly. All data is visible on a single dashboard and reports can be accessed easily. It’s easy for new users too.",
   },
   {
     name: "Pratiksha KC",
     job: "Bakery Manager - Butwal",
-    image: "https://randomuser.me/api/portraits/women/51.jpg",
+    image: "/people/woman3.jpg",
     review:
       "After implementing the loyalty and reward system, we've seen an increase in returning customers. The app also enhances our branding.",
   },
   {
     name: "Kiran Lama",
     job: "Waiter - Bhaktapur",
-    image: "https://randomuser.me/api/portraits/men/77.jpg",
+    image: "/people/man4.jpg",
     review:
       "Being able to view and update orders through mobile has improved coordination among staff. Our trust in technology has increased.",
   },
