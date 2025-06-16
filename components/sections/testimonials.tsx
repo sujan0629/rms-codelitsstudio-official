@@ -21,7 +21,7 @@ export default function Testimonials() {
                 <div className="flex flex-col px-4 py-5 sm:p-6">
                   <div>
               <div className="relative mb-4 flex items-center gap-3">
-  <span className="relative inline-flex w-16 h-16 shrink-0 items-center justify-center rounded-full overflow-hidden border">
+  <span className="relative inline-flex size-16 shrink-0 items-center justify-center rounded-full overflow-hidden border">
     <Image
       src={item.image}
       alt={item.name}
